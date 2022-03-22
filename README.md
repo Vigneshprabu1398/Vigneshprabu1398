@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vigneshprabu M</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Ace in Front-end and Back-end Web development using MERN. Always motivated and eager to work in tech-based companies. Love to learn new skills and implement them.Building interactive, real-life projects and contributing to the tech community.Love to dance and participated in many western group dance competitions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshprabu1398&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshprabu1398" /> </p>
 

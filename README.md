@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">, I'm Vigneshprabu M</h1>
 <h3 align="left">Ace in Front-end and Back-end Web development using MERN. Always motivated and eager to work in tech-based companies. Love to learn new skills and implement them.Building interactive, real-life projects and contributing to the tech community.Love to dance and participated in many western group dance competitions.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vigneshprabu1398" alt="vigneshprabu1398" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vigneshprabu1398" alt="vigneshprabu1398" /></a> </p> -->
 
 ### 💻 What do i do?
 - A MERN stack developer, equipped with a diverse and promising skill-set.
